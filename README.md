@@ -5,7 +5,7 @@
 - İnsanlara yeni yemekler öğretmek .
 - Admin paneli desteği ile 1 yerden yönetim.
 
-## Kullanılan Teknolojiler ve Kütüphaneler ve Yöntemler
+## Kullanılan Teknolojiler , Kütüphaneler ve Yöntemler
 - HTML
 - CSS
 - ASP.NET
