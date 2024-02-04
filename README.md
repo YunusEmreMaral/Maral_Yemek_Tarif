@@ -10,6 +10,7 @@
 - CSS
 - ASP.NET
 - C#
+- MSSQL 
 
 ## Proje Videosu
 
