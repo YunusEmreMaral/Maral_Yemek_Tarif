@@ -11,7 +11,7 @@
 - ASP.NET
 - C#
 - MSSQL
-- ORM:ADO.NET
+- ADO.NET
 
 ## Proje Videosu
 
